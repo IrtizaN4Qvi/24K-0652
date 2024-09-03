@@ -3,4 +3,5 @@
 🌱 I’m currently learning computer scinces from FAST
 📫 How to reach me: irtiza.naqvi.04@gmail.com
 
-![This is a picture of a computer](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fcomputer-programming&psig=AOvVaw2E6oWZamUAkblPAo8B8l8f&ust=1725473951581000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKCn08axp4gDFQAAAAAdAAAAABAE)
+![This is a picture of a computer.](https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?size=626&ext=jpg&ga=GA1.1.2008272138.1725321600&semt=ais_hybrid)
+
